@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+colorlover
+requests
+seaborn
+bs4
